@@ -39,3 +39,8 @@ La página permite ingresar nombres en un campo de texto, mostrarlos en una list
 - **script.js** → lógica para agregar, mostrar y sortear amigos.
 
 ---
+
+##Captura del proyecto
+
+<img width="1277" height="559" alt="image" src="https://github.com/user-attachments/assets/53f4e889-6d73-4402-b7de-45d8ba501172" />
+
